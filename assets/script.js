@@ -69,8 +69,8 @@
     '.loop-grid p',
     '.pull',
     '.principles-list p',
-    '.never-list strong',
     '.ref-body .desc',
+    '.reference-intro',
     '.sources-intro',
     '.source-list .src-gloss'
   ].join(',')).forEach((el) => {
